@@ -12,14 +12,17 @@
 <a href="https://jayeshmanani.github.io" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io" />
 </a>
+
 <a href="https://github.com/jayeshmanani/Data-visualization" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=Data-visualization" />
 </a>
-<a href="https://github.com/jayeshmanani/machine-learning-algorithms" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=machine-learning-algorithms" />
-</a>
+
 <a href="https://github.com/jayeshmanani/Web-Scraping-and-Similarity-Analysis-of-Scraped-Data" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=Web-Scraping-and-Similarity-Analysis-of-Scraped-Data" />
+</a>
+
+<a href="https://github.com/jayeshmanani/machine-learning-algorithms" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=machine-learning-algorithms" />
 </a>
 
 
