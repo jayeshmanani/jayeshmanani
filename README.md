@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself Jayesh Manani,
 
-## I am a Software Engineer (Python Developer)
+#### I do code to automate the stuff, solve the business problems and much more using Python, Google Gcloud and various other technologies and languages.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmanani)](https://github.com/jayeshmanani/github-readme-stats)
 
