@@ -9,10 +9,10 @@
 
 ### Some Cool Experiments By Me
 
-<a href="https://jayeshmanani.github.io" target="_blank" >
+<a href="https://jayeshmanani.github.io" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io" />
 </a>
-<a href="https://github.com/jayeshmanani/Data-visualization" target="_blank" >
+<a href="https://github.com/jayeshmanani/Data-visualization" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=Data-visualization" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
