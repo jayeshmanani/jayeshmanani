@@ -7,10 +7,9 @@
 - 💬 Ask me about Opportunity of working together and Solve the Problems using Data 
 - 📫 You can reach me via Email: manani.jayesh5@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmanani&layout=compact)](https://jayeshmanani.github.io) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmanani&layout=compact)](https://github.com/jayeshmanani) 
 
-[![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshmanani&show_icons=true&theme=radical)](https://github.com/jayeshmanani/github-readme-stats) 
-
+[![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshmanani&show_icons=true&theme=radical)](https://github.com/jayeshmanani) 
 
 #### Some Experiments By Me 
 
@@ -28,6 +27,12 @@
 
 <a href="https://github.com/jayeshmanani/machine-learning-algorithms" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=machine-learning-algorithms" />
+</a>
+
+#### Send Your Requirements/Queries
+
+<a href="https://jayeshmanani.github.io/#contact" target="_blank">
+  Reach Out to Me.....
 </a>
 
 <!--
