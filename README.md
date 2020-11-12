@@ -2,29 +2,29 @@
 
 ## I am a Software Engineer (Python Developer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmanani)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmanani)](https://github.com/jayeshmanani/github-readme-stats)
 
 
 [![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshmanani&show_icons=true&theme=radical)](https://github.com/jayeshmanani/github-readme-stats)
 
 
 ### Some Cool Experiments By Me
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/jayeshmanani/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/jayeshmanani/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/jayeshmanani/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/jayeshmanani/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/jayeshmanani/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/jayeshmanani/github-readme-stats)
 
 
 <!--
