@@ -8,7 +8,6 @@
 
 
 ### Some Cool Experiments By Me
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io)](https://github.com/jayeshmanani/github-readme-stats)
 
 <a href="https://github.com/jayeshmanani/jayeshmanani.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=jayeshmanani.github.io" />
@@ -16,7 +15,6 @@
 <a href="https://github.com/jayeshmanani/Data-visualization">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=Data-visualization" />
 </a>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
