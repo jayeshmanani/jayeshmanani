@@ -1,4 +1,8 @@
-### Hi there 👋, 
+### Hi there 👋, Myself Jayesh Manani,
+
+## I am a Software Engineer (Python Developer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmanani)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshmanani&show_icons=true&theme=radical)](https://github.com/jayeshmanani/github-readme-stats)
