@@ -4,6 +4,9 @@
 [![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshmanani&show_icons=true&theme=radical)](https://github.com/jayeshmanani/github-readme-stats)
 
 
+### Some Cool Experiments By Me
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=jayeshmanani.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jayeshmanani/jayeshmanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
