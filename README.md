@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, 
+
+
+[![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=jayeshmanani)](https://github.com/jayeshmanani/github-readme-stats)
+
+
 
 <!--
 **jayeshmanani/jayeshmanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
