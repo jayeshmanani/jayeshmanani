@@ -30,11 +30,9 @@
 </a>
 
 #### I write about technical stuff here on
-<a href - "http://medium.com/@jayeshmanani" target="_blank">
+<a href="http://medium.com/@jayeshmanani" target="_blank">
   Jayesh Manani on Medium
 </a>
-
-<br>
 
 <a href = "http://egrasps.in/" target="_blank">
   Jayesh Manani (co-founder) - Egrasps
