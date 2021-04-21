@@ -5,7 +5,7 @@
 - 🌱 I’m currently Working on Data Science/Machine Learning/Python Related Projects 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Opportunity of working together and Solve the Problems using Data 
-- 📫 You can reach me via Email: manani.jayesh5@gmail.com
+- 📫 You can reach me via Email: jsmanani@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshmanani&layout=compact)](https://github.com/jayeshmanani) 
 
@@ -29,11 +29,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayeshmanani&repo=machine-learning-algorithms" />
 </a>
 
+#### I write about technical stuff here on
+<a href - "http://medium.com/@jayeshmanani" target="_blank">
+  Jayesh Manani on Medium
+</a>
+
+<br>
+
+<a href = "http://egrasps.in/" target="_blank">
+  Jayesh Manani (co-founder) - Egrasps
+</a>
+
+
 #### Send Your Requirements/Queries
 
 <a href="https://jayeshmanani.github.io/#contact" target="_blank">
   Reach Out to Me.....
 </a>
+
+
 
 <!--
 **jayeshmanani/jayeshmanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
