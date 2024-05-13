@@ -2,7 +2,7 @@
 
 #### I do code to automate the stuff, solve the real business problems and much more using Python, Google Cloud, AWS and various other technologies and languages.
 
-- 🌱 I’m currently Working on Data Science/Machine Learning/Python Related Projects 
+- 🌱 I’m currently Working on AI & ML & Generative AI/Data Science/Python Related Projects 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Opportunity of working together and Solve the Problems using Data 
 - 📫 You can reach me via Email: jsmanani@gmail.com
