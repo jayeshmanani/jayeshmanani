@@ -1,11 +1,17 @@
 ### Hi there 👋, Myself Jayesh Manani,
 
-#### I do code to automate the stuff, solve the real business problems and much more using Python, Google Cloud, AWS and various other technologies and languages.
-
-- 🌱 I’m currently Working on AI & ML & Generative AI/Data Science/Python Related Projects 
+#### I do code to automate the stuff, solve the real business problems and much more using Python, C, C++, AWS, Google Cloud and various other technologies.
+- I am Microsoft Certified: Security Operations Analyst (SC-200)
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Opportunity of working together and Solve the Problems using Data 
 - 📫 You can reach me via Email: jsmanani@gmail.com
+
+#### Skills
+- Python, C, C++, JavaScript
+- DevOps and CI-CD(AWS, GCP, Azure, Docker, Kubernetes, Ansible)
+- Software Engineering
+- Problem Solving & Algorithms
+- Data ETL Pipelines, Data Analytics, Data Engineering
 
 #### I write some technical stuff
 <a href="http://medium.com/@jayeshmanani" target="_blank">
