@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jayesh%20Manani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%2042%20Heilbronn%20%C2%B7%20Mercedes-Benz&descAlignY=55&descSize=16" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ETL+pipelines+that+actually+work;Turning+raw+data+into+business+decisions;AI+%2F+ML+Engineer+in+Stuttgart%2C+Germany;From+India+%E2%86%92+IIM+Ahmedabad+%E2%86%92+Mercedes-Benz;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/jayeshmanani)
+
+<a href="https://www.linkedin.com/in/mananijayesh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://jayeshmanani.github.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://medium.com/@jayeshmanani"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="mailto:jsmanani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=jayeshmanani&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+
 ### Hi there 👋, Myself Jayesh Manani,
 
 #### I do code to automate the stuff, solve the real business problems and much more using Python, C, C++, AWS, Google Cloud and various other technologies.
