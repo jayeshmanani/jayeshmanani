@@ -1,7 +1,6 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jayesh%20Manani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%2042%20Heilbronn%20%C2%B7%20Mercedes-Benz&descAlignY=55&descSize=16" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jayesh%20Manani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Cybersecurity%20%C2%B7%20M.Sc.%20Autonomous%20Systems%20%C2%B7%20Mercedes-Benz&descAlignY=55&descSize=15" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ETL+pipelines+that+actually+work;Turning+raw+data+into+business+decisions;AI+%2F+ML+Engineer+in+Stuttgart%2C+Germany;From+India+%E2%86%92+IIM+Ahmedabad+%E2%86%92+Mercedes-Benz;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://github.com/jayeshmanani)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+for+Cybersecurity;M.Sc.+Autonomous+Systems+-+Uni+Stuttgart+%E2%9C%85;From+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%86%92+Germany+%F0%9F%87%A9%F0%9F%87%AA;AI+%2B+Security+%2B+Systems+Programming+%F0%9F%9A%80;Open+to+New+Opportunities+%F0%9F%91%8B)](https://github.com/jayeshmanani)
  
 <a href="https://www.linkedin.com/in/mananijayesh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tryhackme.com/p/jmanani"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
@@ -13,26 +12,66 @@
 
 ---
 
+
 ## 🧬 About Me
 
 ```yaml
-name: Jayesh Manani
+name:     Jayesh Manani
 location: Stuttgart, Germany 🇩🇪  (originally from India 🇮🇳)
-current_roles:
-  - Student @ 42 Heilbronn (peer-to-peer coding school)
-focus:
-  - ETL Pipeline Engineering & Data Automation
-  - ML / AI & Generative AI
-  - Systems Programming (C/C++ @ 42)
-certification: Microsoft Certified Security Operations Analyst (SC-200)
-superpower: Taking messy multi-source data → clean, actionable pipelines
-currently_building:
-  - Modular Python ETL architecture + Docker deployments
-  - Gen AI experiments and LLM-powered tooling
-open_to: Collaborations · Open source · Interesting data problems
+
+education:
+  degree:  M.Sc. Computer Science - Autonomous Systems ✅
+  school:  University of Stuttgart
+
+current_status: Open to new opportunities 👋
+background:
+  - Ex Working Student @ Mercedes-Benz AG
+  - 42 Heilbronn student (peer-to-peer, project-based coding school)
+
+focus_areas:
+  - Autonomous AI Agents (LLMs · pydantic-ai · Vertex AI / Gemini)
+  - Cybersecurity Engineering (SIEM · SOC · Threat Intelligence)
+  - Systems Programming in C/C++ (@ 42 Heilbronn)
+  - Data Engineering & ETL Pipelines
+
+superpower: >
+  Turning complex security & data challenges into production-ready AI systems
+  that actually reduce human workload.
+
+certifications:
+  - Microsoft SC-200: Security Operations Analyst ✅
+  - Generative AI with LLMs (DeepLearning.AI) ✅
+  - Oracle Cloud Infrastructure Generative AI Professional ✅
+  - AWS Machine Learning · Google Cloud Engineering · IBM Data Science ✅
+
+open_to: Research · Open Source · AI · Cyber Security · Impactful engineering roles
 ```
 
 ---
+## 🔥 Featured Project
+
+<div align="center">
+
+### 🛡️ Autonomous AI Agent for SIEM L1 Triage
+*The most impactful thing I've built so far*
+
+</div>
+
+An autonomous AI assistant that **analyses, prioritises, and investigates security alerts** — the kind of work that burns out SOC analysts. It enriches events in real-time with **VirusTotal** and **AbuseIPDB** threat context, scores risk automatically, and supports natural-language conversational queries so analysts can ask questions instead of digging through dashboards.
+
+Built with **Gemini / Vertex AI** via `pydantic-ai`, served over **FastAPI**, and evaluated with **Langfuse** for production-grade observability.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayeshmanani/Autonomous-AI-Agent-for-SIEM-L1-Triage)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://autonomous-ai-agent-for-siem-l1-triage.onrender.com)
+
+`Gemini / Vertex AI` · `pydantic-ai` · `FastAPI` · `VirusTotal API` · `AbuseIPDB` · `Langfuse` · `Python`
+
+</div>
+
+---
+
 
 
 ## 🔧 Tech Stack
@@ -47,20 +86,28 @@ open_to: Collaborations · Open source · Interesting data problems
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Data Engineering & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### AI / ML / Data
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Cybersecurity
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM%20%26%20SOC-FF0000?style=for-the-badge&logo=microsoft&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
 ### Frameworks & Infra
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -79,9 +126,14 @@ Experimenting with LLM-powered automation, building on top of my NLP background 
 `Generative AI` · `LLMs` · `Python` · `Scikit-learn` · `NLTK` · `Transformers`
 
 ---
+### 🛡️ AI + Cybersecurity
+Building autonomous agents that tackle real SOC workload - alert triage, threat enrichment, risk scoring. Combining my SC-200 security background with LLM agentic frameworks to ship tools that actually reduce analyst fatigue in production environments.
 
+`Generative AI` · `LLMs` · `Python` · `SC-200` · `TryHackMe` · `Log Analysis`
+
+---
 ### 🔩 Systems Programming @ 42 Heilbronn
-Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-reviewing code every day, shipping projects like custom shells, memory allocators, and graphics engines as part of 42's demanding project-based curriculum.
+Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-reviewing code every day, shipping projects like custom shells, custom shells, `libft`, `ft_printf`, `push_swap`, GetNextLine, maze generators, peer-reviewed. The hardest and most rewarding programming environment I've been in.
 
 `C` · `Python` · `C++` · `Unix/Linux` · `Makefile` · `Algorithms & Data Structures`
 
@@ -91,6 +143,7 @@ Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-rev
 
 | # | Project | What It Does | Stack |
 |---|---------|--------------|-------|
+| 🛡️ | [**Autonomous SIEM AI Agent**](https://github.com/jayeshmanani/Autonomous-AI-Agent-for-SIEM-L1-Triage) ⭐ | AI agent for SOC L1 triage - alert enrichment, risk scoring, conversational queries | Gemini · pydantic-ai · FastAPI · Langfuse |
 | 🐦 | [Twitter Sentiment Analyzer](https://github.com/jayeshmanani/Sentiment-Analysis-Twitter-Data) | Fetch tweets by keyword → NLP classifier → positive / negative / neutral tagging | Python · NLTK · Twitter API |
 | 🌐 | [Web Scraping + TF-IDF Deduplication](https://github.com/jayeshmanani/Web-Scraping-and-Similarity-Analysis-of-Scraped-Data) | Scrapes event listings across platforms, deduplicates using TF-IDF cosine similarity | Scrapy · BeautifulSoup · Gensim |
 | 🌦️ | [Weather Decision Tree Classifier](https://github.com/jayeshmanani/Decision-Tree-Classifier-using-scikit-learn) | Predicts humidity levels from 3 years of San Diego weather data | Scikit-learn · Pandas · Jupyter |
@@ -104,24 +157,36 @@ Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-rev
 ## 💼 Career Timeline
 
 ```
-2022 ── Student @ 42 Heilbronn ──▶ Present
+👋 Currently open to new roles in GenAI, AI, Cybersecurity, Autonomous Systems, or impactful software engineering.
+
+2025 ─ Student @ 42 Heilbronn (🇩🇪) ─▶ Present
         └─ Peer-to-peer · No lectures · Project-based · Learning by shipping
 
-2022 ── Working Student (Software Engineer) @ Mercedes-Benz AG ──▶ Present
+Apr 2023 ─ Working Student / Master Thesis Student @ Mercedes-Benz AG (🇩🇪) ─▶ Mar 2025 ─▶ Completed ✅
+        └─ GenAI · RAG · AI/ML · Data ETL · Databricks · Llama3.1
+        └─ Python · Cloud CI/CD · Data Pipelines · MS Azure
         └─ Real production environment at a global automotive engineering company
         └─ Stuttgart, Germany 🇩🇪
 
-2020 ── Software Developer @ Sameeksha Capital (FinTech)
-        └─ Built in-house trade generation platform from scratch (Django/Flask)
+May 2024 ── HiWi (Research Assistant) @ University of Stuttgart (🇩🇪) ─▶ Dec 2024
+        └─ Academic research support · University of Stuttgart
+
+Apr 2022 ─ M.Sc. Computer Science @ University of Stuttgart (🇩🇪) ─▶ Mar 2025 ─▶ Completed ✅
+        └─ Autonomous Systems (Major)
+
+Oct 2020 ─ Software Developer @ Sameeksha Capital (FinTech) (🇮🇳) ─▶ Mar 2022
+        └─ Built in-house trade processing platform from scratch
         └─ GCP infrastructure · Workflow automation · Data pipelines
 
-2019 ── Research Associate @ IIM Ahmedabad
-        └─ Prof. Samrat Gupta & Prof. Sanket Mohapatra
+Jul 2019 ─ Research Associate @ IIM Ahmedabad (🇮🇳) ─▶ Oct 2020
+        └─ Research tooling for Prof. Samrat Gupta & Prof. Sanket Mohapatra
         └─ Social network analysis · Community detection · Django/Flask · Research tooling
 
-2019 ── AI/ML Engineer @ Allevents.in
+Jan 2019 ─ AI/ML Engineer @ Allevents.in (🇮🇳) ─▶ Jul 2019
         └─ Duplicate listing detection · User clustering by interest
         └─ Multi-label hierarchical text classification
+        └─ Future event prediction for Marketing
+
 ```
 
 ---
@@ -133,8 +198,12 @@ Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-rev
 | | Certification | Issuer |
 |-|--------------|--------|
 | 🛡️ | **Security Operations Analyst — SC-200** | Microsoft |
+| 🤖 | **Generative AI with Large Language Models** | DeepLearning.AI |
+| ☁️ | **Oracle Cloud Infrastructure Generative AI Professional** | Oracle |
+| 🌩️ | **AWS Machine Learning Specialty** | Amazon |
+| 🌐 | **Google Cloud Professional Data Engineer** | Google |
 | 📊 | **IBM Data Science Professional Certificate** | IBM / Coursera |
-| 🏅 | **Data Science Foundations Specialist** | IBM / Coursera |
+| 🔐 | **Ethical Hacking Nanodegree** | Udacity |
 
 </div>
 
@@ -159,10 +228,9 @@ Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-rev
 
 ## ✍️ Writing
 
-I write guides on Python, ML, and data engineering — from beginner to production:
+I write guides on Python, ML, and data engineering - from beginner to production:
 
-- 📝 **[EGrasps on Medium](https://medium.com/egrasps)** — step-by-step technical guides
-- 💡 **[Data Driven Investor](https://www.datadriveninvestor.com/author/jayeshmanani/)** — data, AI, and tech perspectives
+- 💡 **[Data Driven Investor](https://www.datadriveninvestor.com/author/jayeshmanani/)** - data, AI, and tech perspectives
 
 ---
 
@@ -170,7 +238,7 @@ I write guides on Python, ML, and data engineering — from beginner to producti
 
 <div align="center">
 
-Got a data problem worth solving, or working on something interesting in AI/ML? Can help you with Cyber Security as well.
+Got a data problem worth solving, or working on something interesting in AI/ML, Security or Autonomous Systems?
 
 **I'm always up for a good conversation.**
 
@@ -186,7 +254,7 @@ Got a data problem worth solving, or working on something interesting in AI/ML? 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-*"4 years in a stable job in India, then I moved to Germany to push myself further. Keep learning....."*
+*"4 years in a stable job in India 🇮🇳, then I moved to Germany to push myself further. Keep learning....."*
 
 </div>
 
