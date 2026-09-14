@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+for+Cybersecurity;M.Sc.+Autonomous+Systems+-+Uni+Stuttgart+%E2%9C%85;From+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%86%92+Germany+%F0%9F%87%A9%F0%9F%87%AA;AI+%2B+Security+%2B+Systems+Programming+%F0%9F%9A%80;Open+to+New+Opportunities+%F0%9F%91%8B)](https://github.com/jayeshmanani)
  
+<a href="https://ai-career-representative.vercel.app/"><img src="https://img.shields.io/badge/Chat%20With%20My%20AI-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mananijayesh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tryhackme.com/p/jmanani"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 <a href="https://www.kaggle.com/jayeshmanani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
@@ -48,12 +49,34 @@ open_to: Research · Open Source · AI · Cyber Security · Impactful engineerin
 ```
 
 ---
-## 🔥 Featured Project
+## 🔥 Featured Projects
+
+<div align="center">
+
+### 💼 AI Career Representative & Interactive Resume Agent
+*An interactive AI representative speaking for my skills, experience, and background in real-time*
+
+</div>
+
+An interactive, LLM-grounded **AI Career Representative** that allows recruiters, engineering managers, and collaborators to interview an AI twin trained on my verified background. It answers deep-dive technical questions, explores past experience (Mercedes-Benz, 42 Heilbronn, M.Sc. Autonomous Systems), highlights core engineering strengths and growth areas, and serves candidate data with zero hallucination.
+
+Designed with a sleek, responsive dark UI, pre-built interview prompts (technical achievements, strengths, role fit), and instant PDF resume access.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayeshmanani/AI_Career_Representative)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-career-representative.vercel.app/)
+
+`LLM Grounding` · `Interactive AI Agent` · `FastAPI / API Integration` · `Vercel` · `Full-Stack` · `Candidate Screening`
+
+</div>
+
+<br/>
 
 <div align="center">
 
 ### 🛡️ Autonomous AI Agent for SIEM L1 Triage
-*The most impactful thing I've built so far*
+*Autonomous security analyst assistant for SOC alert investigation*
 
 </div>
 
@@ -121,7 +144,7 @@ Built with **Gemini / Vertex AI** via `pydantic-ai`, served over **FastAPI**, an
 ## 🚀 What I'm Building Now
 
 ### 🤖 Generative AI & LLM Tooling
-Experimenting with LLM-powered automation, building on top of my NLP background (sentiment analysis, multi-label classification, clustering). Exploring how Gen AI can be plugged into existing data workflows to reduce manual intervention.
+Building interactive agentic applications and automation tools — including my deployed [AI Career Representative](https://ai-career-representative.vercel.app/) ([Repo](https://github.com/jayeshmanani/AI_Career_Representative)), an LLM-grounded candidate screening agent. Exploring how Gen AI and RAG architectures can be integrated into production workflows to eliminate repetitive manual queries.
 
 `Generative AI` · `LLMs` · `Python` · `Scikit-learn` · `NLTK` · `Transformers`
 
@@ -143,6 +166,7 @@ Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-rev
 
 | # | Project | What It Does | Stack |
 |---|---------|--------------|-------|
+| 💼 | [**AI Career Representative**](https://github.com/jayeshmanani/AI_Career_Representative) [*(Live Demo)*](https://ai-career-representative.vercel.app/) ⭐ | Interactive AI resume assistant & candidate screening representative grounded in verified candidate data | LLMs · Grounded Agents · Vercel · Full-Stack |
 | 🛡️ | [**Autonomous SIEM AI Agent**](https://github.com/jayeshmanani/Autonomous-AI-Agent-for-SIEM-L1-Triage) ⭐ | AI agent for SOC L1 triage - alert enrichment, risk scoring, conversational queries | Gemini · pydantic-ai · FastAPI · Langfuse |
 | 🐦 | [Twitter Sentiment Analyzer](https://github.com/jayeshmanani/Sentiment-Analysis-Twitter-Data) | Fetch tweets by keyword → NLP classifier → positive / negative / neutral tagging | Python · NLTK · Twitter API |
 | 🌐 | [Web Scraping + TF-IDF Deduplication](https://github.com/jayeshmanani/Web-Scraping-and-Similarity-Analysis-of-Scraped-Data) | Scrapes event listings across platforms, deduplicates using TF-IDF cosine similarity | Scrapy · BeautifulSoup · Gensim |
@@ -242,6 +266,7 @@ Got a data problem worth solving, or working on something interesting in AI/ML, 
 
 **I'm always up for a good conversation.**
 
+[![Chat with my AI](https://img.shields.io/badge/Chat%20With%20My%20AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-career-representative.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mananijayesh/)
 [![Portfolio](https://img.shields.io/badge/See%20My%20Work-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://jayeshmanani.github.io)
 [![Email](https://img.shields.io/badge/Drop%20Me%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsmanani@gmail.com)
