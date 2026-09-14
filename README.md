@@ -30,14 +30,14 @@ background:
   - 42 Heilbronn student (peer-to-peer, project-based coding school)
 
 focus_areas:
-  - Autonomous AI Agents (LLMs · pydantic-ai · Vertex AI / Gemini)
-  - Cybersecurity Engineering (SIEM · SOC · Threat Intelligence)
-  - Systems Programming in C/C++ (@ 42 Heilbronn)
-  - Data Engineering & ETL Pipelines
+  - Autonomous AI Agents & LLM Systems (pydantic-ai · Vertex AI / Gemini · RAG)
+  - Cloud Engineering & Production MLOps (AWS · Azure · GCP · Databricks · Docker)
+  - Cybersecurity Engineering & SecOps (SIEM · SOC Triage · SC-200 · Threat Intel)
+  - Low-Level Systems & Concurrency in C/C++ (@ 42 Heilbronn)
 
 superpower: >
-  Turning complex security & data challenges into production-ready AI systems
-  that actually reduce human workload.
+  Turning complex AI, security, and cloud data challenges into production-ready
+  autonomous systems that reduce human fatigue and scale reliably.
 
 certifications:
   - Microsoft SC-200: Security Operations Analyst ✅
@@ -45,8 +45,20 @@ certifications:
   - Oracle Cloud Infrastructure Generative AI Professional ✅
   - AWS Machine Learning · Google Cloud Engineering · IBM Data Science ✅
 
-open_to: Research · Open Source · AI · Cyber Security · Impactful engineering roles
+open_to:
+  - AI Engineer / LLM Engineer
+  - Cloud / MLOps / Platform Engineer
+  - Cybersecurity / SecOps Engineer
+  - Autonomous Systems Engineer
 ```
+
+### 🎯 Technical Value Pillars
+
+| 🤖 AI & LLM Systems | ☁️ Cloud, Data & MLOps | 🛡️ Cybersecurity & SecOps |
+| :--- | :--- | :--- |
+| **Autonomous Agents**: `pydantic-ai`, Gemini, Vertex AI, Langfuse observability | **Multi-Cloud**: Azure (Mercedes-Benz 2 yrs), GCP, AWS Machine Learning Specialty | **SOC Automation**: Real-time SIEM alert triage, VirusTotal & AbuseIPDB enrichment |
+| **Constrained Decoding**: Custom logit masking & deterministic function calling | **Production MLOps**: MLflow, DVC, Databricks, Docker, CI/CD pipeline automation | **Security Operations**: Microsoft **SC-200** certified, threat intelligence, log correlation |
+| **Enterprise RAG & Search**: ChromaDB, CLIP multimodal search, zero-hallucination agents | **Backend & Systems**: High-concurrency FastAPI microservices, C/C++ (@ 42 Heilbronn) | **Privacy & Compliance**: Automated PII redaction pipeline (`Presidio`, spaCy, GDPR) |
 
 ---
 ## 🔥 Featured Projects
@@ -112,23 +124,28 @@ Built with **Gemini / Vertex AI** via `pydantic-ai`, served over **FastAPI**, an
 ### AI / ML / Data
 ![LLMs](https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cybersecurity
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![SC-200](https://img.shields.io/badge/SC--200%20Certified-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM%20%26%20SOC-FF0000?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ### Frameworks & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
@@ -153,6 +170,12 @@ Building interactive agentic applications and automation tools — including my 
 Building autonomous agents that tackle real SOC workload - alert triage, threat enrichment, risk scoring. Combining my SC-200 security background with LLM agentic frameworks to ship tools that actually reduce analyst fatigue in production environments.
 
 `Generative AI` · `LLMs` · `Python` · `SC-200` · `TryHackMe` · `Log Analysis`
+
+---
+### ☁️ Cloud Infrastructure & Production MLOps
+Engineering reproducible ML pipelines and scalable serving infrastructure — combining MLflow experiment tracking, DVC data versioning, container orchestration, and multi-cloud environments (Azure, GCP, AWS). Bridging the gap between experimental AI prototypes and resilient, enterprise-grade production systems.
+
+`MLOps` · `MLflow` · `DVC` · `Docker` · `Azure` · `Databricks` · `CI/CD` · `FastAPI`
 
 ---
 ### 🔩 Systems Programming @ 42 Heilbronn
