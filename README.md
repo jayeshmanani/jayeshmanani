@@ -26,7 +26,7 @@ education:
 
 current_status: Open to new opportunities 👋
 background:
-  - Ex Working Student @ Mercedes-Benz AG
+  - AI & Data Engineer @ Mercedes-Benz AG (2 yrs · Production AI & Pipelines)
   - 42 Heilbronn student (peer-to-peer, project-based coding school)
 
 focus_areas:
@@ -156,7 +156,7 @@ Building autonomous agents that tackle real SOC workload - alert triage, threat 
 
 ---
 ### 🔩 Systems Programming @ 42 Heilbronn
-Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-reviewing code every day, shipping projects like custom shells, custom shells, `libft`, `ft_printf`, `push_swap`, GetNextLine, maze generators, peer-reviewed. The hardest and most rewarding programming environment I've been in.
+Deep-diving into low-level C from scratch - no extra libraries, only in-built libraries, no shortcuts. Peer-reviewing code every day, shipping projects like custom shells, `libft`, `ft_printf`, `push_swap`, GetNextLine, maze generators, Codexion (Classis dining philosopher problem), RAG, CallMeMaybe (Constrained Generation), all peer-reviewed. The hardest and most rewarding programming environment I've been in.
 
 `C` · `Python` · `C++` · `Unix/Linux` · `Makefile` · `Algorithms & Data Structures`
 
@@ -167,14 +167,13 @@ Deep-diving into low-level C from scratch - no libraries, no shortcuts. Peer-rev
 | # | Project | What It Does | Stack |
 |---|---------|--------------|-------|
 | 💼 | [**AI Career Representative**](https://github.com/jayeshmanani/AI_Career_Representative) [*(Live Demo)*](https://ai-career-representative.vercel.app/) ⭐ | Interactive AI resume assistant & candidate screening representative grounded in verified candidate data | LLMs · Grounded Agents · Vercel · Full-Stack |
-| 🛡️ | [**Autonomous SIEM AI Agent**](https://github.com/jayeshmanani/Autonomous-AI-Agent-for-SIEM-L1-Triage) ⭐ | AI agent for SOC L1 triage - alert enrichment, risk scoring, conversational queries | Gemini · pydantic-ai · FastAPI · Langfuse |
-| 🐦 | [Twitter Sentiment Analyzer](https://github.com/jayeshmanani/Sentiment-Analysis-Twitter-Data) | Fetch tweets by keyword → NLP classifier → positive / negative / neutral tagging | Python · NLTK · Twitter API |
-| 🌐 | [Web Scraping + TF-IDF Deduplication](https://github.com/jayeshmanani/Web-Scraping-and-Similarity-Analysis-of-Scraped-Data) | Scrapes event listings across platforms, deduplicates using TF-IDF cosine similarity | Scrapy · BeautifulSoup · Gensim |
-| 🌦️ | [Weather Decision Tree Classifier](https://github.com/jayeshmanani/Decision-Tree-Classifier-using-scikit-learn) | Predicts humidity levels from 3 years of San Diego weather data | Scikit-learn · Pandas · Jupyter |
-| 🎬 | [Movie Review NLP Classifier](https://github.com/jayeshmanani/Natural-Language-Processing) | Naive Bayes sentiment model on 2000 NLTK reviews — ~70% accuracy | Python · NLTK |
-| 📊 | [Data Visualization Playground](https://github.com/jayeshmanani/Data-visualization) | Interactive charts & data storytelling | Matplotlib · Seaborn · Plotly |
-| 🕷️ | [Scrapy Web Crawler](https://github.com/jayeshmanani/Web-Scraping-Using-Scrapy) | Production-style spider → structured CSV output | Scrapy · Python |
-| 🧠 | [ML Algorithm Collection](https://github.com/jayeshmanani/machine-learning-algorithms) | Clean implementations of core ML algorithms | Python · Scikit-learn |
+| 🛡️ | [**Autonomous SIEM AI Agent**](https://github.com/jayeshmanani/Autonomous-AI-Agent-for-SIEM-L1-Triage) [*(Live Demo)*](https://autonomous-ai-agent-for-siem-l1-triage.onrender.com) ⭐ | AI agent for SOC L1 triage - alert enrichment (VirusTotal, AbuseIPDB), risk scoring, conversational queries | Gemini · pydantic-ai · FastAPI · Langfuse |
+| 🧠 | [**Call Me Maybe**](https://github.com/jayeshmanani/Call_Me_Maybe) | Constrained LLM decoding engine for 100% schema-compliant JSON function calling via logit masking | LLMs · Constrained Decoding · Logit Masking · Python · Qwen |
+| 🚀 | [**MLOps Production Track**](https://github.com/jayeshmanani/MLOps-Level3) | End-to-end production ML system (appliedAI Institute) with experiment tracking, DVC, CI/CD & orchestration | MLOps · MLflow · DVC · Docker · CI/CD · Python |
+| 🔒 | [**STACKIT Data Vault**](https://github.com/jayeshmanani/vault.ai) | Privacy-preserving PII redaction pipeline for traffic logs using Presidio, spaCy NER & application-layer encryption | PySpark · Presidio · spaCy · Cryptography · GDPR |
+| 🔍 | [**Multimodal Product Matcher**](https://github.com/jayeshmanani/AI_Infra_Engineer_Coding) | End-to-end multimodal search & matching system using CLIP embeddings, ChromaDB vector store, and MongoDB | CLIP · ChromaDB · FastAPI · MongoDB · Vector Search |
+| ⚡ | [**Codexion Concurrency Engine**](https://github.com/jayeshmanani/Codexion) | Multi-threaded simulation in C orchestrating POSIX threads, deadlock avoidance & FIFO/EDF scheduling | C · POSIX Threads · Mutexes · Real-Time Scheduling (EDF) |
+| 🔄 | [**Push Swap Algorithm**](https://github.com/jayeshmanani/push_swap) | Optimized 2-stack sorting algorithm in C engineered for minimum operation count and algorithmic complexity | C · Algorithms · Data Structures · Complexity |
 
 ---
 
